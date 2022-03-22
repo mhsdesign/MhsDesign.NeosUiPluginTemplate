@@ -1,0 +1,14 @@
+Neos:
+  Neos:
+    Ui:
+      resources:
+        javascript:
+          'MhsDesign.NeosUiPluginTemplate:Plugin':
+            resource: 'resource://MhsDesign.NeosUiPluginTemplate/Public/Plugin/Plugin.js'
+#        stylesheets:
+#          'MhsDesign.NeosUiPluginTemplate:Plugin':
+#            resource: 'resource://MhsDesign.NeosUiPluginTemplate/Public/Plugin/Plugin.css'
+
+#      frontendConfiguration:
+#        'MhsDesign.NeosUiPluginTemplate':
+#          optionA: true
